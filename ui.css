@@ -1,0 +1,117 @@
+.navbar {
+  background-color: black;
+  color: white;
+}
+navbar.navbar {
+  background-color: black;
+  color: white;
+}
+.nav-link {
+  color: white;
+}
+.container {
+  height: auto;
+  width: 960px;
+  padding-top: 30px;
+}
+.nav justify-content-center {
+  background-color: gray;
+}
+.navbar2 {
+  background-color: gray;
+  color: whitesmoke;
+  padding: 10px;
+}
+.col-9 {
+  padding-top: 20px;
+  color: black;
+  background-color: white;
+}
+#sidereel {
+  padding-top: 12px;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 238px;
+}
+
+#profile-tab {
+  color: black;
+}
+#contact-tab {
+  color: black;
+}
+#contact-tab {
+  color: black;
+}
+#contact-tab {
+  color: black;
+}
+#home-tab {
+  color: black;
+}
+#multi-tab {
+  color: black;
+}
+#minipic {
+  padding-right: 0px;
+  position: relative;
+}
+.tbody {
+  vertical-align: middle;
+}
+.table td,
+.table th {
+  vertical-align: middle;
+}
+.card {
+  width: 238px;
+}
+#card2 {
+  padding-top: 10px;
+}
+#searchcontainer {
+  width: 960px;
+}
+.table {
+  width: 690px;
+}
+span.navbar-toggler-icon {
+  color: white;
+  background-color: grey;
+}
+
+.btn btn-outline-success my-2 my-sm-0 {
+  color: #f8f9fa;
+  background-color: transparent;
+  background-image: none;
+  border-color: #f8f9fa;
+}
+#title1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#gamecontainer {
+  border-width: 0 3px;
+  height: 900px;
+  width: 900px;
+}
+#gamecontain {
+  height: auto;
+  width: 960px;
+  border: solid #000;
+  background-color: whitesmoke;
+}
+.breadcrumb {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.form1 {
+  padding-bottom: 40px;
+}
+#logins {
+  height: 800px;
+}
+.page-footer {
+  background-color: #000;
+  padding-top: 20px;
+  margin-top: 20px;
+}
